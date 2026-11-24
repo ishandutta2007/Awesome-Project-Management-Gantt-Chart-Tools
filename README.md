@@ -8,7 +8,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/ishandutta2007/Awesome-Awesome-Awesome)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Project-Management-Gantt-Chart-Tools?style=social)](https://github.com/ishandutta2007/Awesome-Project-Management-Gantt-Chart-Tools/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Project-Management-Gantt-Chart-Tools?style=social)](https://github.com/ishandutta2007/Awesome-Project-Management-Gantt-Chart-Tools/stargazers)
 <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
 **A comprehensive, curated directory of leading SaaS platforms and open-source GitHub projects for project management, Gantt charts, interactive timeline visualization, Critical Path Method (CPM) scheduling, and Work Breakdown Structures (WBS).**
@@ -63,7 +63,7 @@ The table below compiles premier cloud project management suites with native Gan
 
 Curated list of self-hosted project management suites, desktop Gantt software, and interactive JavaScript/TypeScript charting libraries. Ranked in descending order by GitHub stargazers.
 
-| 📦 Repository & Link | ⭐ Community Stars | 🛠️ Technology Stack | 📝 Description & Highlights |
+| 📦 Repository & Link | ⭐ Community GitHub_Stars | 🛠️ Technology Stack | 📝 Description & Highlights |
 | :--- | :--- | :--- | :--- |
 | [**mermaid-js/mermaid**](https://github.com/mermaid-js/mermaid) | [![Stars](https://img.shields.io/github/stars/mermaid-js/mermaid?style=social&color=white)](https://github.com/mermaid-js/mermaid/stargazers) | JavaScript / Markdown | Plain-text Markdown diagramming and charting tool with first-class syntax support for version-controllable Gantt diagrams. |
 | [**makeplane/plane**](https://github.com/makeplane/plane) | [![Stars](https://img.shields.io/github/stars/makeplane/plane?style=social&color=white)](https://github.com/makeplane/plane/stargazers) | TypeScript / Python / Django | Modern open-source project management suite and Linear/Jira alternative featuring cycle planning, timeline views, and issue triage. |
@@ -110,7 +110,7 @@ We welcome community contributions! To suggest a new project management platform
 
 1. 🍴 **Fork** this repository.
 2. 🌿 Create a new feature branch (`git checkout -b feature/add-new-gantt-tool`).
-3. 📝 Update `README.md` following the existing tabular structure, including exact starting prices, verified free tier limits, star badges, and official links.
+3. 📝 Update `README.md` following the existing tabular structure, including exact starting prices, verified free tier limits, Stars_Badges, and official links.
 4. 🚀 Commit your changes (`git commit -m 'feat: add tool-name to curated list'`).
 5. 📤 Push to your fork and submit a **Pull Request**.
 
@@ -136,7 +136,7 @@ Thank you for exploring this curated repository! If you find this collection hel
 ## 📄 Disclaimer & License
 
 - *Disclaimer*: All product names, logos, trademarks, and registered trademarks are property of their respective owners. Mention of SaaS platforms and GitHub repositories does not constitute an official endorsement.
-- *Data Accuracy*: Pricing, free tier limits, valuations, and star counts reflect verified public figures as of late 2026 and are updated periodically by the community.
+- *Data Accuracy*: Pricing, free tier limits, valuations, and Stars_Counts reflect verified public figures as of late 2026 and are updated periodically by the community.
 - *License*: Released under the [MIT License](LICENSE).
 
 ---
