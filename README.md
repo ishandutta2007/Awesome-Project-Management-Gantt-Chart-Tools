@@ -4,10 +4,12 @@
 
 # 📊 Awesome Project Management & Gantt Chart Tools 🚀
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+[![Awesome](https://awesome.re/badge.svg)](https://github.com/ishandutta2007/Awesome-Awesome-Awesome)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Project-Management-Gantt-Chart-Tools?style=social)](https://github.com/ishandutta2007/Awesome-Project-Management-Gantt-Chart-Tools/stargazers)
+<a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
 **A comprehensive, curated directory of leading SaaS platforms and open-source GitHub projects for project management, Gantt charts, interactive timeline visualization, Critical Path Method (CPM) scheduling, and Work Breakdown Structures (WBS).**
 
@@ -24,6 +26,8 @@
 - [⭐ Open-Source GitHub Projects](#-open-source-github-projects)
 - [🔍 Key Evaluation Criteria for Gantt Tools](#-key-evaluation-criteria-for-gantt-tools)
 - [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support & Community](#-support--community)
+- [📈 Star History](#-star-history)
 - [📄 Disclaimer & License](#-disclaimer--license)
 
 ---
@@ -109,6 +113,23 @@ We welcome community contributions! To suggest a new project management platform
 3. 📝 Update `README.md` following the existing tabular structure, including exact starting prices, verified free tier limits, star badges, and official links.
 4. 🚀 Commit your changes (`git commit -m 'feat: add tool-name to curated list'`).
 5. 📤 Push to your fork and submit a **Pull Request**.
+
+---
+
+## 💖 Support & Community
+
+Thank you for exploring this curated repository! If you find this collection helpful for evaluating Gantt chart tools or building timeline workflows:
+
+- ⭐ **Star** this repository on GitHub to help others discover it.
+- 🍴 **Fork** and contribute additional tools, framework wrappers, or corrections.
+- 📢 **Share** this list with fellow project managers, engineers, and developer communities.
+- ☕ **Support the Creator**: If this project helped you save time, consider buying a coffee or becoming a sponsor via the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007).
+
+---
+
+##  Star History
+#[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Project-Management-Gantt-Chart-Tools&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Project-Management-Gantt-Chart-Tools&type=date&legend=top-left)
+[![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-Project-Management-Gantt-Chart-Tools&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-Project-Management-Gantt-Chart-Tools&type=date&legend=top-left)
 
 ---
 
